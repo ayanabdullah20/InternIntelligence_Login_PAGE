@@ -1,11 +1,5 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyAcq6QbJuS0kAB5OEsinY6J1wjZattOty4",
-    authDomain: "login-page-67e68.firebaseapp.com",
-    projectId: "login-page-67e68",
-    storageBucket: "login-page-67e68.appspot.com",
-    messagingSenderId: "855980609859",
-    appId: "1:855980609859:web:29b85b36ec99008dd25ff6",
-    measurementId: "G-ZJVCQMH9Q4"
+    //your firebase config
 };
 firebase.initializeApp(firebaseConfig);
 const auth = firebase.auth();
