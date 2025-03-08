@@ -19,7 +19,7 @@ Hosting: Firebase (Optional)
 bash
 Copy
 Edit
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/ayanabdullah20/InternIntelligence_Login_PAGE.git
 cd repo-name
 2️⃣ Open index.html in your browser.
 3️⃣ Update script.js with your Firebase Config.
